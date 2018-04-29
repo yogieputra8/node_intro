@@ -1,2 +1,2 @@
-# node_intro
-NodeJS for teaching
+# Backend Development
+NodeJS for teaching purpose
